@@ -69,4 +69,5 @@ AllSports API is a RESTful API built with Express.js for managing users, product
 
 ### Swagger
 
-The Swagger will run at `http://localhost:8000/api-docs`.
+The Swagger will run at `https://allsports-backend.onrender.com/api-docs`.
+The Deployed Link is `https://allsports-backend.onrender.com`
