@@ -45,11 +45,8 @@ AllSports API is a RESTful API built with Express.js for managing users, product
 
 ### User Routes
 
-- `GET /user` - Get all users
-- `GET /user/:id` - Get user by ID
-- `POST /user` - Create a new user
-- `PATCH /user/:id` - Update user by ID
-- `DELETE /user/:id` - Delete user by ID
+- `POST /user/register` - For Registration
+- `POST /user/login` - For Login
 
 ### Product Routes
 
