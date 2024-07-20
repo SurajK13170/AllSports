@@ -26,11 +26,10 @@ AllSports API is a RESTful API built with Express.js for managing users, product
 3. Set up the environment variables:
     Create a `.env` file in the root directory with the following content:
     ```plaintext
-    port=8000
     host=your_database_host
-    DB_USER=your_database_user
-    DB_PASSWORD=your_database_password
-    DB_NAME=your_database_name
+    port=your_database_port
+    Password_sql=your_database_password
+    SECRET_KEY=JWT secret
     ```
 
 ## Usage
